@@ -1,0 +1,501 @@
+*{margin: 0;
+padding: 0;}
+body{background-color: white;
+}
+
+.navheader li{display: inline-block ;
+
+}
+
+.top{background-image: url(back.jpg);
+width: 100%;
+height: 650px;
+background-size: cover;}
+
+.burst{font-size: 100px;
+font-family: cursive;
+color: white;
+text-shadow: 2px 2px 15px black;
+text-decoration: none;}
+
+.burst:hover{color: black;}
+
+.navheader{display: flex; justify-content: space-between;
+margin: 10px;
+padding: 30px;
+align-items: center;
+
+}
+input{width: 500px;
+height: 50px;
+font-family: cursive;
+border-radius: 10px;
+align-items: right;
+border: 10px solid # #191A19;
+padding: 10px;
+}
+
+
+
+input[type="search"]:hover{
+    padding: 0.5rem 1rem;
+    border: 2px solid;
+    border-radius: 5px;
+    width: 600px;
+transition: 1s;
+
+}
+
+
+ul{font-size: 20px;
+padding: 60px;
+margin: 30px;
+word-spacing: 30px;
+text-shadow: 2px 2px 15px black;
+
+}
+a{text-decoration: none;
+color: white}
+
+a:hover{color: brown;
+font-size: bold;}
+
+li:hover{
+/* font-size: 23px;/  */
+/* text-decoration: underline , blue 3px; */
+/* border-bottom: 4px solid; */
+color: green;
+}
+
+.btn{
+background-color: green;
+padding: 10px;
+border-radius: 10px;}
+.btn:hover{background-color: black;}
+
+.write{position: absolute;
+left: 100px;
+width: 700px;
+padding: 20px;
+
+}
+h2{color: white;
+text-shadow: 2px 2px 8px black;
+font-size: 30px;
+line-height: 2;}
+
+h1{font-size: 60px;
+  color: white;
+  text-shadow: 2px 2px 8px black;
+}
+.middle{background-color: #191a19;
+  height: 2500px;
+width: 100%;
+
+}
+p{font-family: 'Rubik', sans-serif;}
+
+.words{position: relative;
+top: 70px;
+left: 50px;}
+
+.topfree{font-size: 40px;}
+.Stunning{font-size: 30px;}
+/* left: 600px;
+bottom: 250px;} */
+.more{position: relative;
+left: 1000px;
+bottom: 100px;}
+.morep{border: 1px solid white;
+padding: 20px;
+border-width: 5px;}
+
+.morep:hover{background-color: green;}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid blue;
+
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.pics{position: absolute;
+  left: 250px;
+  top: 900px;
+color: white;}
+
+.getfree{
+position: relative;
+top: 650px;
+font-family: cursive;
+font-size: 20px;
+color: white;
+}
+
+.hori{position: relative;
+top: 550px;}
+
+.hori2{position: relative;
+top: 800px;}
+h3{position: relative;
+top: 50px;}
+.email{position: relative;top: 90px;
+left: 200px;}
+.sub{position: relative;
+left: 300px;
+top: 93px;
+background-color: green;
+padding: 10px;
+border-radius: 10px;}
+
+
+.homebtn{position: sticky;
+top: 600px;
+left: 1200px;
+background-color: green;
+padding: 10px;
+border-radius: 100%;
+font-size: 20px;}
+
+.service{background-color: ;
+height: 200px;;
+width: 70%;
+margin: auto;
+text-align: left;
+line-height: 2;
+font-size: 20px;
+font-family: serif;
+color: white;}
+.lorem1{color: white;}
+.kittpic{float: left;
+margin-right: 30px;}
+
+
+.servicee{background-color: ;
+height: 200px;
+width: 70%;
+margin: auto;
+text-align: right;
+line-height: 2;
+font-size: 20px;
+font-family: serif;
+color: white;}
+.kittpicc{float: right;}
+
+.search{position: relative;
+left: 10px;
+top: 50px;
+background-color: ;}
+.picture{
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 13px;
+  float: left;
+  width: 300px;
+position: relative;left: 30px;}
+
+  div.picture img {
+    width: 100%;
+    height: auto;
+    border-radius: 13px;
+  }
+
+  .pictures{float: left;
+  width: 300px;
+margin: 5px;
+position: relative;
+left: 30px;
+}
+.pictures img{width: 100%;
+height: auto;
+border-radius: 13px;}
+.four,.three{position: relative;
+bottom: 360px;}
+.four{position: relative;bottom: 400px;}
+.five{position: relative;bottom: 250px;}
+.bottom{background-color: black;
+width: 100%;
+height: 400px;
+text-align: center;}
+p{color: white;}
+
+.inside{width:100% ;
+height: 200px;
+background-color: black;
+text-align: left;
+}
+.contact-me{background-color: black;
+position: relative;
+right: 350px;}
+
+.lorem{text-align: center;
+position: relative;
+left: 50px;
+color: white;
+font-size: bold;
+font-family: cursive;}
+
+.btnn{
+background-color: green;
+padding: 10px;
+border-radius: 10px;
+position: relative;
+left: 320px;
+top: 60px;}
+
+.getin{position: relative;
+right: 20px;}
+
+.btnn:hover{background-color: black;}
+
+.ereks{position: relative;
+right: 310px;}
+.move{position: relative;
+left: 50px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* bottom: 500px;}
+    @media screen and (min-width :1000px)
+    {
+    *{margin: 0;
+    padding: 0;}
+    body{background-color: black;}
+
+    .navheader li{display: inline-block ;
+
+  }
+
+  .top{background-image: url(back.jpg);
+  width: 100%;
+  height: 650px;
+  background-size: cover;}
+
+  .burst{font-size: 100px;
+  font-family: cursive;
+  color: white;
+  text-shadow: 2px 2px 15px black;
+  text-decoration: none;}
+
+  .burst:hover{color: black;}
+
+  .navheader{display: flex; justify-content: space-between;
+  margin: 10px;
+  padding: 30px;
+  align-items: center;
+
+}
+input{width: 500px;
+height: 50px;
+font-family: cursive;
+border-radius: 10px;
+align-items: right;
+border: 10px solid # #191A19;
+padding: 10px;
+}
+
+
+
+input[type="search"]:hover{
+padding: 0.5rem 1rem;
+border: 2px solid;
+border-radius: 5px;
+width: 600px;
+transition: 1s;
+
+}
+
+
+ul{font-size: 20px;
+  padding: 60px;
+  margin: 30px;
+  word-spacing: 30px;
+  text-shadow: 2px 2px 15px black;
+
+}
+a{text-decoration: none;
+  color: white}
+
+  a:hover{color: brown;
+    font-size: bold;}
+
+    li:hover{
+      /* font-size: 23px;/  */
+      /* text-decoration: underline , blue 3px; */
+      /* border-bottom: 4px solid; */
+      /* color: green;
+    }
+
+    .btn{
+      background-color: green;
+      padding: 10px;
+      border-radius: 10px;}
+      .btn:hover{background-color: black;}
+
+      .write{position: absolute;
+        left: 100px;
+        width: 700px;
+        padding: 20px;
+
+      }
+      h2{color: white;
+        text-shadow: 2px 2px 8px black;
+        font-size: 30px;
+        line-height: 2;}
+
+        h1{font-size: 60px;
+          color: white;
+          text-shadow: 2px 2px 8px black;
+        }
+        .middle{background-color: #191A19;
+          width: 100%;
+
+        }
+
+        .words{position: relative;
+          top: 70px;
+          left: 50px;}
+
+          .topfree{font-size: 40px;}
+          .Stunning{font-size: 30px;}
+
+          .more{position: relative;
+            left: 1000px;
+            bottom: 100px;}
+            .morep{border: 1px solid white;
+              padding: 20px;
+              border-width: 5px;}
+
+              .morep:hover{background-color: green;}
+
+              div.gallery {
+                margin: 5px;
+                border: 1px solid #ccc;
+                float: left;
+                width: 180px;
+              }
+
+              div.gallery:hover {
+                border: 1px solid blue;
+
+              }
+
+              div.gallery img {
+                width: 100%;
+                height: auto;
+              }
+
+              div.desc {
+                padding: 15px;
+                text-align: center;
+              }
+
+              .pics{position: absolute;
+                left: 250px;
+                top: 900px;
+                color: white;}
+
+                .getfree{
+                  position: relative;
+                  top: 650px;
+                  font-family: cursive;
+                  font-size: 20px;
+                  color: white;
+                }
+
+                .hori{position: relative;
+                  top: 550px;}
+
+                  .hori2{position: relative;
+                    top: 800px;}
+                    h3{position: relative;
+                      top: 50px;}
+                      .email{position: relative;top: 90px;
+                        left: 200px;}
+                        .sub{position: relative;
+                          left: 300px;
+                          top: 93px;
+                          background-color: green;
+                          padding: 10px;
+                          border-radius: 10px;}
+
+
+                          .homebtn{position: sticky;
+                            top: 600px;
+                            left: 1200px;
+                            background-color: green;
+                            padding: 10px;
+                            border-radius: 100%;
+                            font-size: 20px;}
+
+                            .service{background-color: ;
+                              height: 200px;;
+                              width: 70%;
+                              margin: auto;
+                              text-align: left;
+                              line-height: 2;
+                              font-size: 20px;
+                              font-family: serif;
+                              color: white;}
+                              .lorem1{color: white;}
+                              .kittpic{float: left;
+                                margin-right: 30px;}
+
+
+                                .servicee{background-color: ;
+                                  height: 200px;
+                                  width: 70%;
+                                  margin: auto;
+                                  text-align: right;
+                                  line-height: 2;
+                                  font-size: 20px;
+                                  font-family: serif;
+                                  color: white;}
+                                  .kittpicc{float: right;}
+
+                                  .search{position: relative;
+                                    left: 10px;
+                                    top: 50px;
+                                    background-color: ;}
+                                    .picture{
+                                      margin: 5px;
+                                      border: 1px solid #ccc;
+                                      float: left;
+                                      width: 300px;
+                                      position: relative;left: 30px;}
+
+                                      div.picture img {
+                                        width: 100%;
+                                        height: auto;
+                                      }
+                                      .lastpic{position: relative;
+                                        bottom: 500px;}
+                                        } */ */
